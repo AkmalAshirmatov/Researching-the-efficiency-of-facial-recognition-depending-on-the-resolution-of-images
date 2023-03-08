@@ -1,6 +1,6 @@
 # Researching-the-efficiency-of-facial-recognition-depending-on-the-resolution-of-images
 
-These experiments were a part of a course work.
+These experiments are a part of my course work.
 
 For experiments LFW dataset was used, that was divided into train and validation sets. 
 
