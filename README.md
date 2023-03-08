@@ -7,7 +7,6 @@ In the beginning several steps were done:
 - rotation by a random angle in the range of [-30, 30] degrees (the angle is selected from a uniform distribution) 
 - random horizontal flipping
 
-Without compression ~94% was achieved. 
 During experiments:
 - 93.73% accuracy without compression
 - 92.00% accuracy when compressed by 2 times
